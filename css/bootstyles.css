@@ -1,0 +1,65 @@
+body{
+    background-image: url(/assets/img/byu.jpeg);
+}
+
+.common{
+    background-color: white;
+    border: solid 2px green;
+    position: absolute;
+}
+
+.header{
+    top: 50px;
+    left: 400px;
+    right: 400px;
+    height: 100px;
+    text-align: center;
+    
+}
+
+.subheader{
+    top:200px;
+    height: 50px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+}
+
+.links{
+    padding: 25px;
+    font-size: 30px;
+}
+
+.tabletitle{
+    
+    left: 350px;
+    right: 350px;
+    padding: 25px;
+    text-align: center;
+    width:100%
+}
+
+.tableauPlaceholder1 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+    background-color: white;
+    border-style: solid;
+  }
+
+.tags{
+    bottom: 0;
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+
+    
+}
+
+.footer{
+    bottom: 5px;
+    height: 75px;
+    width: 100%;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
